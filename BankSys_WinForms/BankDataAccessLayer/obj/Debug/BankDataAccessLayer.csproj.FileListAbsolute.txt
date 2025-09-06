@@ -1,0 +1,6 @@
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.dll
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.pdb
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.AssemblyReference.cache
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.dll
+D:\Dr.Mohammed_Abo-Hodowd\Course_18_C# & Database Connectivity\MyProjects\BankSys_WinForms\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.pdb
